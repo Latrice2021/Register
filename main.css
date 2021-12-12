@@ -1,0 +1,10 @@
+/*This code changes the color of my background*/
+body {
+    background-color: rgba(41, 34, 51, 0.2) ;
+}
+
+/*This gives my div a big red border*/
+div {
+    border: 10px double rgb(153, 0, 255);
+    padding: 30px;
+}
